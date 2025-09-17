@@ -1,4 +1,3 @@
-A comprehensive exploratory data analysis of e-commerce sales data to uncover key insights, trends, and patterns that drive business performance and customer behavior.
 **🎯 Project Overview**
 This project performs an in-depth analysis of e-commerce sales data to understand:
 
